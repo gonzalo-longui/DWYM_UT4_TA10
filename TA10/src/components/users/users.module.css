@@ -1,0 +1,18 @@
+.listItem {
+    width: 100%;
+    list-style-type: none;
+    padding-bottom: 25px;
+}
+
+.userSpan {
+    border-radius: 8px;
+    border: 1px solid #cccccc;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #eeeeee;
+    cursor: pointer;
+    transition: border-color 0.25s;
+}
+
